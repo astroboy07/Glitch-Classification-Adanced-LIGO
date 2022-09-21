@@ -1,3 +1,5 @@
+![cover_image](https://github.com/astroboy07/Glitch-Classification-Adanced-LIGO/blob/master/Extras/GW_LIGO.png)
+
 # Glitch-Classification-Adanced-LIGO
 
 ## Repo's Structure
